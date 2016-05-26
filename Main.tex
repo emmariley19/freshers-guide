@@ -1,0 +1,188 @@
+%%%%%%%%%
+% Change year here
+\def\currentcohort{2015 / 2016}
+%%%%%%%%%%%%
+
+
+%nothing from here on should be changed!!!
+
+
+\documentclass[a4paper,fleqn,12pt]{book} %general structure
+\input{structure} % Insert the commands.tex file which contains the majority of
+% the structure behind the main body template
+\usepackage{tikz} %used to draw shapes on title page and chapter headings
+\usepackage{libertine} %use non-standard font (especially for cover)
+\usepackage[T1]{fontenc} %font formatting
+\usepackage{eso-pic} %cover background
+\usepackage{xcolor} %colours
+\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+\usepackage[utf8]{inputenc} % Required for including letters with accents
+\usepackage{calc} % For simpler calculation - used for spacing the index letter headings correctly
+\usepackage[top=3cm,bottom=3cm,left=3.2cm,right=3.2cm,headsep=10pt,a4paper]{geometry}% modified margins
+\usepackage[english]{babel} %spelling, hyphenation
+\usepackage{graphicx} %needed for pictures
+\usepackage{booktabs} %nicer tables
+\usepackage{array} %formatting of tables
+\usepackage[notlof]{tocbibind} %lists all those tables of contents in the table
+%of content, which do not reference themselves ;)
+\usepackage{pdfpages} %college map
+\usepackage{caption} %captionof command
+\usepackage{wrapfig} %text and picture ide by side
+\usepackage{tabularx}
+
+\addto\captionsenglish{\renewcommand{\figurename}{Fig.}} %change label for figures
+\addto\captionsenglish{\renewcommand{\listfigurename}{\biolinum \Large
+\textcolor{titlepagecolour}{Credit must go where credit is due}}}% modify lof name
+
+\graphicspath{{Pictures/}} %put all pictures into folder ``Pictures''
+
+\usetikzlibrary[positioning] %positioning of purple blocks, chapter heading boxes etc
+
+\renewcommand\UrlFont{\rmfamily\itshape} %font used for URLs/clickable links
+
+\definecolor{titlepagecolour}{cmyk}{0.436,.865,0,.478} %primary colour used
+\newcommand\urlformat[2]{{\color{titlepagecolour}#2\UrlFont#1}} %used for
+% typesetting hidden URLs, i.e. \href{URL}{\urlformat{displayed}} results in a
+% purple, italic word ``displayed'', which is a clickable link to ``URL''.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%title page main layout
+\newcommand\titlepagedecoration[1]{%
+\begin{tikzpicture}[remember picture,overlay,shorten >= -10pt]
+\coordinate (tp1) at ([yshift=3cm]current page.west);
+\coordinate (tp2) at ([yshift=3cm,xshift=10cm]current page.west);
+\coordinate (tp3) at ([yshift=0pt,xshift=12cm]current page.north);
+\coordinate (tp4) at ([yshift=0pt]current page.north west);
+\coordinate (tpx) at ([yshift=8cm,xshift=13cm]current page.west); 
+\coordinate (tpy) at ([yshift=8cm,xshift=0cm]current page.west);
+\coordinate (tpa) at (current page.south west);
+\coordinate (tpb) at ([xshift=5cm]current page.south west);
+\coordinate (tpc) at ([yshift=3cm,xshift=5cm]current page.west);
+\coordinate (tpcenter) at ([xshift=2.5cm,yshift=8.8cm] current page.south west);
+
+\filldraw[draw=titlepagecolour!60!white,fill=titlepagecolour!60!white] (tpa)--(tpb)--(tpc)--(tp1)--cycle;
+\filldraw[draw=titlepagecolour,fill=titlepagecolour] (tp1)--(tp2)--(tp3)--(tp4)--cycle; 
+\filldraw[draw=titlepagecolour!30!white,fill=titlepagecolour!30!white,opacity=0.2] ([xshift=-5cm]tp1)--([xshift=-5cm]tp2)--([xshift=-5cm]tp3)--([xshift=-5cm]tp4)--cycle;
+\filldraw[opacity=0.4,draw=titlepagecolour,fill=titlepagecolour] (tpy) -- (tpx) -- (tp2) -- (tp1) -- cycle;
+\node [rotate=90,white] at (tpcenter) {\resizebox{16.7cm}{!}{\biolinum NEW
+COLLEGE}}; \node[right] at ([xshift=1cm,yshift=-5cm]current page.north west)
+{\parbox{\textwidth}{\color{white}#1}}; \end{tikzpicture}%
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\author{% for PDF tags
+    New College MCR
+    }
+\title{% for PDF tags
+	MCR Fresher's Guide \currentcohort
+	}
+    
+    
+\begin{document}
+
+\newcounter{nosmtoc} %needed for small tables of content in chapter headers
+\setcounter{nosmtoc}{0} %which are on by default
+
+\frontmatter
+%----------------------------------------------------------------------------------------
+%	Titlepage
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+    \titlepagedecoration{%
+        \resizebox{11cm}{!}{\biolinum MCR Freshers' Guide}\par
+        \vspace*{1cm}
+        \resizebox{8cm}{!}{\biolinum\currentcohort}  
+    }
+    \null\vfill
+
+\AddToShipoutPicture*{\put(-100,-10)%
+{\includegraphics[scale=.28]{Title.jpg}% title page background
+}} 
+\AddToShipoutPicture*{\put(320,-255)%
+{\includegraphics[scale=0.3]{NCC.png}% faint College crest
+}} 
+\addcontentsline{lof}{figure}{Title page background: Photo credit to Naysan
+Rafati/\href{http://oxonogaphy.wordpress.com}{Oxonography}}
+\end{titlepage}
+
+%----------------------------------------------------------------------------------------
+%	COPYRIGHT PAGE
+%----------------------------------------------------------------------------------------
+
+\newpage
+~\vfill
+
+\thispagestyle{empty}
+\enlargethispage{\baselineskip}
+
+\listoffigures
+
+\smallskip
+
+\noindent Copyright \copyright\ 2014 New College MCR % Copyright notice
+\smallskip
+
+\noindent \url{http://mcr.new.ox.ac.uk/}\\ % URL
+
+\noindent This guide builds on and modifies the
+\href{http://www.latextemplates.com/template/the-legrand-orange-book}{\urlformat{The
+Legrand Orange Book}} template originally written by \href{mailto:legrand.mathias@gmail.com}{\urlformat{Mathias
+Legrand}}, subsequently edited by
+\href{mailto:vel@latextemplates.com}{\urlformat{Vel}} for
+\href{http://www.latextemplates.com/}{\urlformat{LaTeXTemplates.com}}, published
+under a CC-NC-SA 3.0 licence. \\ %Attribution and Modification notice
+
+\noindent Licensed under the Creative Commons Attribution-NonCommercial 3.0
+Unported License (the ``License''). You may not use this file except in compliance with the License. You may obtain a copy of the License at \url{http://creativecommons.org/licenses/by-nc/3.0}. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \textsc{``as is'' basis, without warranties or conditions of any kind}, either express or implied. See the License for the specific language governing permissions and limitations under the License.\\ % License information
+
+\noindent \textit{August 2014} % Printing/edition date
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+\chapterimage{chapter_head_1.pdf} % Table of contents heading image
+
+\pagestyle{empty} % No headers
+
+\tableofcontents % Print the table of contents itself
+
+\cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
+
+\pagestyle{fancy} % Print headers again
+
+\mainmatter
+
+\setcounter{nosmtoc}{1} %switches small table of contents off
+\input{./Chapters/C1_Introduction.tex}
+\setcounter{nosmtoc}{0}  %switches small table of contents on
+
+\input{./Chapters/C2_College.tex}
+
+%\input{./Chapters/C3_People.tex}
+
+\input{./Chapters/C4_Facilities.tex}
+
+\input{./Chapters/C5_MCRtasks.tex}
+
+\input{./Chapters/C6_Accommodation.tex}
+
+\input{./Chapters/C7_Money.tex}
+
+\input{./Chapters/C8_Essential.tex}
+
+\input{./Chapters/C9_LocalInfo.tex}
+
+\input{./Chapters/C10_International.tex} 
+
+%\setcounter{nosmtoc}{1} %switches small table of contents off
+%\input{./Chapters/C11_Glossary.tex}
+%\setcounter{nosmtoc}{0}  %switches small table of contents on 
+
+%\cleardoublepage
+%\includepdf[addtotoc={1, chapter, 1, Map of New
+%College, Map},landscape=true]{./Pictures/CollegeMap.pdf}
+
+\restoregeometry
+%----------------------------------------------------------------------------------------
+
+\end{document}
