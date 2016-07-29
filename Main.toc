@@ -57,7 +57,7 @@
 \contentsline {chapter}{\numberline {7}Money}{21}{chapter.7}
 \contentsline {section}{\numberline {7.1}Battels}{21}{section.7.1}
 \contentsline {section}{\numberline {7.2}Till account}{21}{section.7.2}
-\contentsline {section}{\numberline {7.3}Grants and bursaries}{21}{section.7.3}
+\contentsline {section}{\numberline {7.3}Grants and bursaries}{22}{section.7.3}
 \contentsline {section}{\numberline {7.4}Earning money}{22}{section.7.4}
 \contentsline {chapter}{\numberline {8}Essential admin after arrival}{23}{chapter.8}
 \contentsline {section}{\numberline {8.1}Room key}{23}{section.8.1}
@@ -68,7 +68,7 @@
 \contentsline {section}{\numberline {9.2}Gowns and academic dress}{25}{section.9.2}
 \contentsline {section}{\numberline {9.3}Bicycles}{26}{section.9.3}
 \contentsline {section}{\numberline {9.4}Welfare}{26}{section.9.4}
-\contentsline {section}{\numberline {9.5}Lesbian and Gay students}{26}{section.9.5}
+\contentsline {section}{\numberline {9.5}LGBTQ+ students}{27}{section.9.5}
 \contentsline {section}{\numberline {9.6}Terms}{28}{section.9.6}
 \contentsline {section}{\numberline {9.7}Transportation}{28}{section.9.7}
 \contentsline {chapter}{\numberline {10}Information for Overseas Students}{29}{chapter.10}

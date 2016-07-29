@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  29 JUL 2016 19:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  29 JUL 2016 20:06
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -1732,13 +1732,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-<Pictures/Title.jpg, id=206, 1116.87262pt x 893.43788pt>
+<Pictures/Title.jpg, id=222, 1116.87262pt x 893.43788pt>
 File: Pictures/Title.jpg Graphic file (type jpg)
 
 <use Pictures/Title.jpg>
 Package pdftex.def Info: Pictures/Title.jpg used on input line 105.
 (pdftex.def)             Requested size: 312.7222pt x 250.1609pt.
- <Pictures/NCC.png, id=207, 2007.5pt x 2525.435pt>
+ <Pictures/NCC.png, id=223, 2007.5pt x 2525.435pt>
 File: Pictures/NCC.png Graphic file (type png)
 
 <use Pictures/NCC.png>
@@ -1782,17 +1782,22 @@ Overfull \hbox (5.58pt too wide) detected at line 8
 
 
 Overfull \hbox (5.58pt too wide) detected at line 10
- [][]\T1/LinuxLibertineT-TLF/m/n/12 8[]
+ [][]\T1/LinuxLibertineT-TLF/m/n/12 7[]
  []
 
 
-Overfull \hbox (5.58pt too wide) detected at line 11
- [][]\T1/LinuxLibertineT-TLF/m/n/12 8[]
+Overfull \hbox (11.16pt too wide) detected at line 12
+ [][]\T1/LinuxLibertineT-TLF/m/n/12 10[]
  []
 
 
-Overfull \hbox (5.58pt too wide) detected at line 12
- [][]\T1/LinuxLibertineT-TLF/m/n/12 8[]
+Overfull \hbox (11.16pt too wide) detected at line 13
+ [][]\T1/LinuxLibertineT-TLF/m/n/12 10[]
+ []
+
+
+Overfull \hbox (11.16pt too wide) detected at line 14
+ [][]\T1/LinuxLibertineT-TLF/m/n/12 10[]
  []
 
 )
@@ -1858,7 +1863,7 @@ ut line 3.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 9.
+(Font)              scaled to size 10.95pt on input line 13.
  [5] [6])
 \tf@toc=\write6
 \openout6 = `Main.toc'.
@@ -1868,7 +1873,7 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 ] (Chapters/C1_Introduction.tex
 Chapter 1.
 \c@ttl@toc@default=\count269
-<Pictures/chapter_head_1.jpg, id=365, 1926.2364pt x 963.6pt>
+<Pictures/chapter_head_1.jpg, id=386, 1926.2364pt x 963.6pt>
 File: Pictures/chapter_head_1.jpg Graphic file (type jpg)
 
 <use Pictures/chapter_head_1.jpg>
@@ -1883,9 +1888,9 @@ ut line 3.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 (Font)              scaled to size 24.88pt on input line 3.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 42.
+(Font)              scaled to size 10.0pt on input line 37.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 45.
+(Font)              scaled to size 10.0pt on input line 40.
 ) (Chapters/C2_College.tex [1
 
 
@@ -1895,7 +1900,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 3.
-<Pictures/chapter_head_2.jpg, id=376, 2067.8856pt x 1033.9428pt>
+<Pictures/chapter_head_2.jpg, id=397, 2067.8856pt x 1033.9428pt>
 File: Pictures/chapter_head_2.jpg Graphic file (type jpg)
 
 <use Pictures/chapter_head_2.jpg>
@@ -1909,13 +1914,13 @@ ut line 8.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 8.
 )
-<Pictures/coat.png, id=377, 190.7125pt x 299.1175pt>
+<Pictures/coat.png, id=398, 190.7125pt x 299.1175pt>
 File: Pictures/coat.png Graphic file (type png)
  <use Pictures/coat.png>
 Package pdftex.def Info: Pictures/coat.png used on input line 25.
 (pdftex.def)             Requested size: 79.75687pt x 125.08992pt.
 
-<Pictures/college.jpg, id=378, 963.6pt x 596.2275pt>
+<Pictures/college.jpg, id=399, 963.6pt x 596.2275pt>
 File: Pictures/college.jpg Graphic file (type jpg)
 
 <use Pictures/college.jpg>
@@ -1924,7 +1929,7 @@ Package pdftex.def Info: Pictures/college.jpg used on input line 33.
  [3 <./Pictures/chapter_head_2.jpg>])
 (Chapters/C3_People.tex [4 <./Pictures/coat.png> <./Pictures/college.jpg>]
 Chapter 3.
-<Pictures/chapter_head_3i.jpg, id=390, 481.8pt x 240.9pt>
+<Pictures/chapter_head_3i.jpg, id=410, 481.8pt x 240.9pt>
 File: Pictures/chapter_head_3i.jpg Graphic file (type jpg)
 
 <use Pictures/chapter_head_3i.jpg>
@@ -1937,14 +1942,14 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 
  <./Pictures/chapter_head_3i.jpg>]) (Chapters/C4_Facilities.tex [6]
 Chapter 4.
-<Pictures/chapter_head_4.jpg, id=410, 481.8pt x 240.9pt>
+<Pictures/chapter_head_4.jpg, id=430, 481.8pt x 240.9pt>
 File: Pictures/chapter_head_4.jpg Graphic file (type jpg)
 
 <use Pictures/chapter_head_4.jpg>
 Package pdftex.def Info: Pictures/chapter_head_4.jpg used on input line 4.
 (pdftex.def)             Requested size: 597.50787pt x 298.78273pt.
  (Main.ptc)
-<Pictures/Spoom.jpg, id=413, 963.6pt x 722.7pt>
+<Pictures/Spoom.jpg, id=433, 963.6pt x 722.7pt>
 File: Pictures/Spoom.jpg Graphic file (type jpg)
  <use Pictures/Spoom.jpg>
 Package pdftex.def Info: Pictures/Spoom.jpg used on input line 26.
@@ -1953,27 +1958,27 @@ Package pdftex.def Info: Pictures/Spoom.jpg used on input line 26.
 [7
 
  <./Pictures/chapter_head_4.jpg>] [8 <./Pictures/Spoom.jpg>]
-<Pictures/sports.png, id=429, 1286.55656pt x 333.49594pt>
+<Pictures/sports.png, id=444, 1286.55656pt x 333.49594pt>
 File: Pictures/sports.png Graphic file (type png)
 
 <use Pictures/sports.png>
 Package pdftex.def Info: Pictures/sports.png used on input line 109.
 (pdftex.def)             Requested size: 373.86685pt x 96.9098pt.
  [9 <./Pictures/sports.png>]
-<Pictures/hall.jpg, id=442, 630.85687pt x 475.02469pt>
+<Pictures/hall.jpg, id=455, 630.85687pt x 475.02469pt>
 File: Pictures/hall.jpg Graphic file (type jpg)
  <use Pictures/hall.jpg>
 Package pdftex.def Info: Pictures/hall.jpg used on input line 166.
 (pdftex.def)             Requested size: 124.62439pt x 93.83627pt.
 
-<Pictures/chalet.jpg, id=443, 637.63219pt x 426.84468pt>
+<Pictures/chalet.jpg, id=456, 637.63219pt x 426.84468pt>
 File: Pictures/chalet.jpg Graphic file (type jpg)
 
 <use Pictures/chalet.jpg>
 Package pdftex.def Info: Pictures/chalet.jpg used on input line 173.
 (pdftex.def)             Requested size: 137.0862pt x 91.7633pt.
 
-<Pictures/clois.jpg, id=444, 530.73282pt x 397.485pt>
+<Pictures/clois.jpg, id=457, 530.73282pt x 397.485pt>
 File: Pictures/clois.jpg Graphic file (type jpg)
  <use Pictures/clois.jpg>
 Package pdftex.def Info: Pictures/clois.jpg used on input line 180.
@@ -1992,25 +1997,25 @@ File: Pictures/chapter_head_1.jpg Graphic file (type jpg)
 Package pdftex.def Info: Pictures/chapter_head_1.jpg used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 298.90405pt.
  (Main.ptc) [15]
-<Pictures/brunch.jpg, id=506, 542.025pt x 722.7pt>
+<Pictures/brunch.jpg, id=501, 542.025pt x 722.7pt>
 File: Pictures/brunch.jpg Graphic file (type jpg)
  <use Pictures/brunch.jpg>
 Package pdftex.def Info: Pictures/brunch.jpg used on input line 44.
 (pdftex.def)             Requested size: 168.23894pt x 224.3214pt.
 
-<Pictures/eoyp.jpg, id=507, 960.58875pt x 1437.37pt>
+<Pictures/eoyp.jpg, id=502, 960.58875pt x 1437.37pt>
 File: Pictures/eoyp.jpg Graphic file (type jpg)
  <use Pictures/eoyp.jpg>
 Package pdftex.def Info: Pictures/eoyp.jpg used on input line 51.
 (pdftex.def)             Requested size: 168.23894pt x 251.7409pt.
 
-<Pictures/bar.jpg, id=508, 542.025pt x 722.7pt>
+<Pictures/bar.jpg, id=503, 542.025pt x 722.7pt>
 File: Pictures/bar.jpg Graphic file (type jpg)
  <use Pictures/bar.jpg>
 Package pdftex.def Info: Pictures/bar.jpg used on input line 67.
 (pdftex.def)             Requested size: 149.5473pt x 199.39925pt.
 
-<Pictures/bar2.jpg, id=509, 1154.06157pt x 864.22874pt>
+<Pictures/bar2.jpg, id=504, 1154.06157pt x 864.22874pt>
 File: Pictures/bar2.jpg Graphic file (type jpg)
 
 <use Pictures/bar2.jpg>
@@ -2018,25 +2023,25 @@ Package pdftex.def Info: Pictures/bar2.jpg used on input line 74.
 (pdftex.def)             Requested size: 149.5473pt x 111.98444pt.
  [16 <./Pictures/brunch.jpg> <./Pictures/eoyp.jpg>]
 [17 <./Pictures/bar.jpg> <./Pictures/bar2.jpg>]
-<Pictures/play.jpg, id=530, 2055.68pt x 1541.76pt>
+<Pictures/play.jpg, id=518, 2055.68pt x 1541.76pt>
 File: Pictures/play.jpg Graphic file (type jpg)
  <use Pictures/play.jpg>
 Package pdftex.def Info: Pictures/play.jpg used on input line 109.
 (pdftex.def)             Requested size: 311.55782pt x 233.6536pt.
 
-<Pictures/cheese2.jpg, id=531, 2457.18pt x 1842.885pt>
+<Pictures/cheese2.jpg, id=519, 2457.18pt x 1842.885pt>
 File: Pictures/cheese2.jpg Graphic file (type jpg)
 
 <use Pictures/cheese2.jpg>
 Package pdftex.def Info: Pictures/cheese2.jpg used on input line 122.
 (pdftex.def)             Requested size: 124.62439pt x 93.44316pt.
- <Pictures/pub.jpg, id=532, 1003.75pt x 752.8125pt>
+ <Pictures/pub.jpg, id=520, 1003.75pt x 752.8125pt>
 File: Pictures/pub.jpg Graphic file (type jpg)
 
 <use Pictures/pub.jpg>
 Package pdftex.def Info: Pictures/pub.jpg used on input line 128.
 (pdftex.def)             Requested size: 124.62439pt x 93.45805pt.
- <Pictures/narnia.jpg, id=533, 1003.75pt x 752.8125pt>
+ <Pictures/narnia.jpg, id=521, 1003.75pt x 752.8125pt>
 File: Pictures/narnia.jpg Graphic file (type jpg)
 
 <use Pictures/narnia.jpg>
@@ -2052,34 +2057,34 @@ Package pdftex.def Info: Pictures/chapter_head_2.jpg used on input line 3.
  (Main.ptc) [19
 
 ]
-<Pictures/weston.jpg, id=546, 199.74625pt x 150.5625pt>
+<Pictures/weston.jpg, id=533, 199.74625pt x 150.5625pt>
 File: Pictures/weston.jpg Graphic file (type jpg)
 
 <use Pictures/weston.jpg>
 Package pdftex.def Info: Pictures/weston.jpg used on input line 32.
 (pdftex.def)             Requested size: 116.3144pt x 87.6755pt.
- <Pictures/warham.jpg, id=547, 200.75pt x 150.5625pt>
+ <Pictures/warham.jpg, id=534, 200.75pt x 150.5625pt>
 File: Pictures/warham.jpg Graphic file (type jpg)
 
 <use Pictures/warham.jpg>
 Package pdftex.def Info: Pictures/warham.jpg used on input line 36.
 (pdftex.def)             Requested size: 116.3144pt x 87.2367pt.
 
-<Pictures/castlemill.jpg, id=548, 765.86125pt x 459.7175pt>
+<Pictures/castlemill.jpg, id=535, 765.86125pt x 459.7175pt>
 File: Pictures/castlemill.jpg Graphic file (type jpg)
 
 <use Pictures/castlemill.jpg>
 Package pdftex.def Info: Pictures/castlemill.jpg used on input line 40.
 (pdftex.def)             Requested size: 145.39618pt x 87.27007pt.
 
-<Pictures/kitchen.jpg, id=549, 240.9pt x 160.6803pt>
+<Pictures/kitchen.jpg, id=536, 240.9pt x 160.6803pt>
 File: Pictures/kitchen.jpg Graphic file (type jpg)
 
 <use Pictures/kitchen.jpg>
 Package pdftex.def Info: Pictures/kitchen.jpg used on input line 50.
 (pdftex.def)             Requested size: 207.70522pt x 138.54277pt.
 
-<Pictures/weston2.jpg, id=550, 1310.496pt x 982.872pt>
+<Pictures/weston2.jpg, id=537, 1310.496pt x 982.872pt>
 File: Pictures/weston2.jpg Graphic file (type jpg)
 
 <use Pictures/weston2.jpg>
@@ -2092,10 +2097,13 @@ File: Pictures/chapter_head_3i.jpg Graphic file (type jpg)
 <use Pictures/chapter_head_3i.jpg>
 Package pdftex.def Info: Pictures/chapter_head_3i.jpg used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 298.78273pt.
- (Main.ptc) [21
+ (Main.ptc)
+Underfull \vbox (badness 4254) has occurred while \output is active []
 
-]) (Chapters/C8_Essential.tex
-[22]
+ [21
+
+])
+(Chapters/C8_Essential.tex [22]
 Chapter 8.
 File: Pictures/chapter_head_4.jpg Graphic file (type jpg)
 <use Pictures/chapter_head_4.jpg>
@@ -2113,26 +2121,31 @@ File: Pictures/chapter_head_1.jpg Graphic file (type jpg)
 Package pdftex.def Info: Pictures/chapter_head_1.jpg used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 298.90405pt.
  (Main.ptc) [25]
-<Pictures/subfusc2.jpg, id=598, 240.9pt x 179.2296pt>
+<Pictures/subfusc2.jpg, id=582, 240.9pt x 179.2296pt>
 File: Pictures/subfusc2.jpg Graphic file (type jpg)
 
 <use Pictures/subfusc2.jpg>
-Package pdftex.def Info: Pictures/subfusc2.jpg used on input line 38.
+Package pdftex.def Info: Pictures/subfusc2.jpg used on input line 43.
 (pdftex.def)             Requested size: 216.84344pt x 161.3352pt.
 
-<Pictures/subfusc.jpg, id=599, 256.157pt x 401.5pt>
+<Pictures/subfusc.jpg, id=583, 256.157pt x 401.5pt>
 File: Pictures/subfusc.jpg Graphic file (type jpg)
  <use Pictures/subfusc.jpg>
-Package pdftex.def Info: Pictures/subfusc.jpg used on input line 45.
+Package pdftex.def Info: Pictures/subfusc.jpg used on input line 50.
 (pdftex.def)             Requested size: 142.07121pt x 222.68196pt.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 71.
+(Font)              scaled to size 12.0pt on input line 77.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (13.84117pt too wide) in paragraph at lines 114--126
+ [][] 
+ []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2158,159 +2171,32 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
  (Main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
-
-
-Package rerunfilecheck Warning: File `Main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Main.out':
-(rerunfilecheck)             Before: 8E6AFFD5E816621EE2FBAD89A048C692;2946
-(rerunfilecheck)             After:  831878CE28CCC57F6CE61D44184431B7;3186.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `Main.out' has not changed.
+(rerunfilecheck)             Checksum: 652F3ED3F686BBA0CF392F9C7A657C6A;3177.
  ) 
 Here is how much of TeX's memory you used:
- 32265 strings out of 493335
- 602961 string characters out of 3136684
- 672379 words of memory out of 3000000
- 34686 multiletter control sequences out of 15000+200000
- 145412 words of font info for 281 fonts, out of 3000000 for 9000
+ 32237 strings out of 493335
+ 602606 string characters out of 3136684
+ 673518 words of memory out of 3000000
+ 34692 multiletter control sequences out of 15000+200000
+ 145891 words of font info for 284 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,12n,92p,10475b,1222s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{subsection.3.4.3} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.4.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.4.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.3.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.3.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.3.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.6} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.12} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.11} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.10} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.9} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.8} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.7} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.6} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.8.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.8.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.8.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.8.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.6.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.12} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.11} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.10} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.9} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.8} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.7} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.3} has been referenced but does not exist
-, replaced by a fixed one
-
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C
-:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}{C:/
-Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}<C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTI.
-pfb>
-Output written on Main.pdf (39 pages, 7216524 bytes).
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}{C
+:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{C:/
+Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT
+I.pfb>
+Output written on Main.pdf (39 pages, 7215428 bytes).
 PDF statistics:
- 740 PDF objects out of 1000 (max. 8388607)
- 177 named destinations out of 1000 (max. 500000)
- 44585 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 708 PDF objects out of 1000 (max. 8388607)
+ 138 named destinations out of 1000 (max. 500000)
+ 44617 words of extra memory for PDF output out of 51595 (max. 10000000)
 
