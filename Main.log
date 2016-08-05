@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  29 JUL 2016 20:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  1 AUG 2016 10:12
 entering extended mode
 **./Main.tex
 (Main.tex
@@ -1554,35 +1554,42 @@ Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 \TX@cols=\count192
 \TX@ftn=\toks51
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grffile.sty"
+Package: grffile 2016/05/16 v1.17 Extended file name support for graphics (HO)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
 s\tikzlibrarypositioning.code.tex"
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 ) (Main.aux)
 \openout1 = `Main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 80.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    ... okay on input line 80.
 LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TLF on 
-input line 79.
+input line 80.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\libertine\t1linuxlibertinet-tlf.f
 d"
@@ -1590,7 +1597,7 @@ File: T1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for T1/Li
 nuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 79.
+(Font)              scaled to size 12.0pt on input line 80.
 \AtBeginShipoutBox=\box65
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1606,7 +1613,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 \makeMPintoPDFobject=\count198
 \everyMPtoPDFconversion=\toks53
 )
-Package hyperref Info: Link coloring ON on input line 79.
+Package hyperref Info: Link coloring ON on input line 80.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1615,9 +1622,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count199
 )
-LaTeX Info: Redefining \ref on input line 79.
-LaTeX Info: Redefining \pageref on input line 79.
-LaTeX Info: Redefining \nameref on input line 79.
+LaTeX Info: Redefining \ref on input line 80.
+LaTeX Info: Redefining \pageref on input line 80.
+LaTeX Info: Redefining \nameref on input line 80.
 
 (Main.out) (Main.out)
 \@outlinefile=\write4
@@ -1637,7 +1644,7 @@ G,.JBIG2,.JB2,.eps]
 )
 \c@mv@tabular=\count266
 \c@mv@boldtabular=\count267
-LaTeX Info: Redefining \microtypecontext on input line 79.
+LaTeX Info: Redefining \microtypecontext on input line 80.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1699,7 +1706,7 @@ Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@nosmtoc=\count268
 LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on i
-nput line 94.
+nput line 95.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\libertine\t1linuxbiolinumt-tlf.fd
 "
@@ -1707,7 +1714,7 @@ File: T1LinuxBiolinumT-TLF.fd 2012/11/26 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 94.
+(Font)              scaled to size 12.0pt on input line 95.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1716,7 +1723,7 @@ Package microtype Info: Loading generic settings for font family
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 94.
+LaTeX Font Info:    Try loading font information for U+msa on input line 95.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1724,7 +1731,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 94.
+LaTeX Font Info:    Try loading font information for U+msb on input line 95.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1736,13 +1743,13 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 File: Pictures/Title.jpg Graphic file (type jpg)
 
 <use Pictures/Title.jpg>
-Package pdftex.def Info: Pictures/Title.jpg used on input line 105.
+Package pdftex.def Info: Pictures/Title.jpg used on input line 106.
 (pdftex.def)             Requested size: 312.7222pt x 250.1609pt.
  <Pictures/NCC.png, id=223, 2007.5pt x 2525.435pt>
 File: Pictures/NCC.png Graphic file (type png)
 
 <use Pictures/NCC.png>
-Package pdftex.def Info: Pictures/NCC.png used on input line 105.
+Package pdftex.def Info: Pictures/NCC.png used on input line 106.
 (pdftex.def)             Requested size: 602.25465pt x 757.63635pt.
  [1
 
@@ -1751,13 +1758,13 @@ Package pdftex.def Info: Pictures/NCC.png used on input line 105.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Pictures/Title.jpg> <./
 Pictures/NCC.png>] [2]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 117.
+(Font)              scaled to size 24.88pt on input line 118.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 117.
+(Font)              scaled to size 24.88pt on input line 118.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 117.
+(Font)              scaled to size 24.88pt on input line 118.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 117.
+(Font)              scaled to size 17.28pt on input line 118.
  (Main.lof
 Overfull \hbox (3.252pt too wide) detected at line 2
  [][]\T1/LinuxLibertineT-TLF/m/n/12 i[]
@@ -1805,7 +1812,7 @@ Overfull \hbox (11.16pt too wide) detected at line 14
 \openout5 = `Main.lof'.
 
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
- input line 121.
+ input line 122.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\libertine\ts1linuxlibertinet-tlf.
 fd"
@@ -1813,25 +1820,25 @@ File: TS1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 121.
+(Font)              scaled to size 12.0pt on input line 122.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--133
+Underfull \hbox (badness 10000) in paragraph at lines 127--134
 
  []
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 135.
+(Font)              scaled to size 12.0pt on input line 136.
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
 
  []
 
@@ -1873,7 +1880,7 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 ] (Chapters/C1_Introduction.tex
 Chapter 1.
 \c@ttl@toc@default=\count269
-<Pictures/chapter_head_1.jpg, id=386, 1926.2364pt x 963.6pt>
+<Pictures/chapter_head_1.jpg, id=382, 1926.2364pt x 963.6pt>
 File: Pictures/chapter_head_1.jpg Graphic file (type jpg)
 
 <use Pictures/chapter_head_1.jpg>
@@ -1900,7 +1907,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 3.
-<Pictures/chapter_head_2.jpg, id=397, 2067.8856pt x 1033.9428pt>
+<Pictures/chapter_head_2.jpg, id=393, 2067.8856pt x 1033.9428pt>
 File: Pictures/chapter_head_2.jpg Graphic file (type jpg)
 
 <use Pictures/chapter_head_2.jpg>
@@ -1914,13 +1921,13 @@ ut line 8.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 8.
 )
-<Pictures/coat.png, id=398, 190.7125pt x 299.1175pt>
+<Pictures/coat.png, id=394, 190.7125pt x 299.1175pt>
 File: Pictures/coat.png Graphic file (type png)
  <use Pictures/coat.png>
 Package pdftex.def Info: Pictures/coat.png used on input line 25.
 (pdftex.def)             Requested size: 79.75687pt x 125.08992pt.
 
-<Pictures/college.jpg, id=399, 963.6pt x 596.2275pt>
+<Pictures/college.jpg, id=395, 963.6pt x 596.2275pt>
 File: Pictures/college.jpg Graphic file (type jpg)
 
 <use Pictures/college.jpg>
@@ -1929,7 +1936,7 @@ Package pdftex.def Info: Pictures/college.jpg used on input line 33.
  [3 <./Pictures/chapter_head_2.jpg>])
 (Chapters/C3_People.tex [4 <./Pictures/coat.png> <./Pictures/college.jpg>]
 Chapter 3.
-<Pictures/chapter_head_3i.jpg, id=410, 481.8pt x 240.9pt>
+<Pictures/chapter_head_3i.jpg, id=406, 481.8pt x 240.9pt>
 File: Pictures/chapter_head_3i.jpg Graphic file (type jpg)
 
 <use Pictures/chapter_head_3i.jpg>
@@ -1942,14 +1949,14 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 
  <./Pictures/chapter_head_3i.jpg>]) (Chapters/C4_Facilities.tex [6]
 Chapter 4.
-<Pictures/chapter_head_4.jpg, id=430, 481.8pt x 240.9pt>
+<Pictures/chapter_head_4.jpg, id=426, 481.8pt x 240.9pt>
 File: Pictures/chapter_head_4.jpg Graphic file (type jpg)
 
 <use Pictures/chapter_head_4.jpg>
 Package pdftex.def Info: Pictures/chapter_head_4.jpg used on input line 4.
 (pdftex.def)             Requested size: 597.50787pt x 298.78273pt.
  (Main.ptc)
-<Pictures/Spoom.jpg, id=433, 963.6pt x 722.7pt>
+<Pictures/Spoom.jpg, id=429, 963.6pt x 722.7pt>
 File: Pictures/Spoom.jpg Graphic file (type jpg)
  <use Pictures/Spoom.jpg>
 Package pdftex.def Info: Pictures/Spoom.jpg used on input line 26.
@@ -1958,139 +1965,151 @@ Package pdftex.def Info: Pictures/Spoom.jpg used on input line 26.
 [7
 
  <./Pictures/chapter_head_4.jpg>] [8 <./Pictures/Spoom.jpg>]
-<Pictures/sports.png, id=444, 1286.55656pt x 333.49594pt>
+<Pictures/sports.png, id=440, 1286.55656pt x 333.49594pt>
 File: Pictures/sports.png Graphic file (type png)
 
 <use Pictures/sports.png>
 Package pdftex.def Info: Pictures/sports.png used on input line 109.
 (pdftex.def)             Requested size: 373.86685pt x 96.9098pt.
  [9 <./Pictures/sports.png>]
-<Pictures/hall.jpg, id=455, 630.85687pt x 475.02469pt>
+<Pictures/hall.jpg, id=450, 630.85687pt x 475.02469pt>
 File: Pictures/hall.jpg Graphic file (type jpg)
  <use Pictures/hall.jpg>
-Package pdftex.def Info: Pictures/hall.jpg used on input line 166.
+Package pdftex.def Info: Pictures/hall.jpg used on input line 165.
 (pdftex.def)             Requested size: 124.62439pt x 93.83627pt.
 
-<Pictures/chalet.jpg, id=456, 637.63219pt x 426.84468pt>
+<Pictures/chalet.jpg, id=451, 637.63219pt x 426.84468pt>
 File: Pictures/chalet.jpg Graphic file (type jpg)
 
 <use Pictures/chalet.jpg>
-Package pdftex.def Info: Pictures/chalet.jpg used on input line 173.
+Package pdftex.def Info: Pictures/chalet.jpg used on input line 172.
 (pdftex.def)             Requested size: 137.0862pt x 91.7633pt.
 
-<Pictures/clois.jpg, id=457, 530.73282pt x 397.485pt>
+<Pictures/clois.jpg, id=452, 530.73282pt x 397.485pt>
 File: Pictures/clois.jpg Graphic file (type jpg)
  <use Pictures/clois.jpg>
-Package pdftex.def Info: Pictures/clois.jpg used on input line 180.
+Package pdftex.def Info: Pictures/clois.jpg used on input line 179.
 (pdftex.def)             Requested size: 124.62439pt x 93.3362pt.
 
 [10 <./Pictures/hall.jpg> <./Pictures/chalet.jpg> <./Pictures/clois.jpg>]
-[11]
-LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 266.
-) [12] (Chapters/C5_MCRtasks.tex [13] [14
-
-]
+[11]) (Chapters/C5_MCRtasks.tex [12]
 Chapter 5.
 File: Pictures/chapter_head_1.jpg Graphic file (type jpg)
 <use Pictures/chapter_head_1.jpg>
 Package pdftex.def Info: Pictures/chapter_head_1.jpg used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 298.90405pt.
- (Main.ptc) [15]
-<Pictures/brunch.jpg, id=501, 542.025pt x 722.7pt>
+ (Main.ptc) [13
+
+]
+<Pictures/brunch.jpg, id=485, 542.025pt x 722.7pt>
 File: Pictures/brunch.jpg Graphic file (type jpg)
  <use Pictures/brunch.jpg>
-Package pdftex.def Info: Pictures/brunch.jpg used on input line 44.
+Package pdftex.def Info: Pictures/brunch.jpg used on input line 38.
 (pdftex.def)             Requested size: 168.23894pt x 224.3214pt.
 
-<Pictures/eoyp.jpg, id=502, 960.58875pt x 1437.37pt>
-File: Pictures/eoyp.jpg Graphic file (type jpg)
- <use Pictures/eoyp.jpg>
-Package pdftex.def Info: Pictures/eoyp.jpg used on input line 51.
-(pdftex.def)             Requested size: 168.23894pt x 251.7409pt.
+<Pictures/garden party shenanigans.jpg, id=486, 722.7pt x 963.6pt>
+File: Pictures/garden party shenanigans.jpg Graphic file (type jpg)
 
-<Pictures/bar.jpg, id=503, 542.025pt x 722.7pt>
-File: Pictures/bar.jpg Graphic file (type jpg)
- <use Pictures/bar.jpg>
-Package pdftex.def Info: Pictures/bar.jpg used on input line 67.
-(pdftex.def)             Requested size: 149.5473pt x 199.39925pt.
+<use Pictures/garden party shenanigans.jpg>
+Package pdftex.def Info: Pictures/garden party shenanigans.jpg used on input li
+ne 45.
+(pdftex.def)             Requested size: 168.23894pt x 224.31404pt.
 
-<Pictures/bar2.jpg, id=504, 1154.06157pt x 864.22874pt>
+<Pictures/bar2.jpg, id=487, 1154.06157pt x 864.22874pt>
 File: Pictures/bar2.jpg Graphic file (type jpg)
 
 <use Pictures/bar2.jpg>
-Package pdftex.def Info: Pictures/bar2.jpg used on input line 74.
-(pdftex.def)             Requested size: 149.5473pt x 111.98444pt.
- [16 <./Pictures/brunch.jpg> <./Pictures/eoyp.jpg>]
-[17 <./Pictures/bar.jpg> <./Pictures/bar2.jpg>]
-<Pictures/play.jpg, id=518, 2055.68pt x 1541.76pt>
+Package pdftex.def Info: Pictures/bar2.jpg used on input line 61.
+(pdftex.def)             Requested size: 99.69989pt x 74.65189pt.
+
+<Pictures/xmas_bop.jpg, id=488, 275.0275pt x 206.7725pt>
+File: Pictures/xmas_bop.jpg Graphic file (type jpg)
+
+<use Pictures/xmas_bop.jpg>
+Package pdftex.def Info: Pictures/xmas_bop.jpg used on input line 68.
+(pdftex.def)             Requested size: 99.69989pt x 74.95547pt.
+
+<Pictures/mascarade.jpg, id=489, 275.0275pt x 206.7725pt>
+File: Pictures/mascarade.jpg Graphic file (type jpg)
+
+<use Pictures/mascarade.jpg>
+Package pdftex.def Info: Pictures/mascarade.jpg used on input line 74.
+(pdftex.def)             Requested size: 99.69989pt x 74.95547pt.
+
+Underfull \hbox (badness 2189) in paragraph at lines 75--75
+[]\T1/LinuxLibertineT-TLF/m/n/12 (+20) Fig. 5.5: |A mascarade-
+ []
+
+[14 <./Pictures/brunch.jpg> <./Pictures/garden party shenanigans.jpg> <./Pictur
+es/bar2.jpg> <./Pictures/xmas_bop.jpg> <./Pictures/mascarade.jpg>]
+<Pictures/play.jpg, id=499, 2055.68pt x 1541.76pt>
 File: Pictures/play.jpg Graphic file (type jpg)
  <use Pictures/play.jpg>
-Package pdftex.def Info: Pictures/play.jpg used on input line 109.
+Package pdftex.def Info: Pictures/play.jpg used on input line 107.
 (pdftex.def)             Requested size: 311.55782pt x 233.6536pt.
 
-<Pictures/cheese2.jpg, id=519, 2457.18pt x 1842.885pt>
+<Pictures/cheese2.jpg, id=500, 2457.18pt x 1842.885pt>
 File: Pictures/cheese2.jpg Graphic file (type jpg)
 
 <use Pictures/cheese2.jpg>
-Package pdftex.def Info: Pictures/cheese2.jpg used on input line 122.
+Package pdftex.def Info: Pictures/cheese2.jpg used on input line 120.
 (pdftex.def)             Requested size: 124.62439pt x 93.44316pt.
- <Pictures/pub.jpg, id=520, 1003.75pt x 752.8125pt>
+ <Pictures/pub.jpg, id=501, 1003.75pt x 752.8125pt>
 File: Pictures/pub.jpg Graphic file (type jpg)
 
 <use Pictures/pub.jpg>
-Package pdftex.def Info: Pictures/pub.jpg used on input line 128.
+Package pdftex.def Info: Pictures/pub.jpg used on input line 126.
 (pdftex.def)             Requested size: 124.62439pt x 93.45805pt.
- <Pictures/narnia.jpg, id=521, 1003.75pt x 752.8125pt>
-File: Pictures/narnia.jpg Graphic file (type jpg)
+ <Pictures/guest night.jpg, id=502, 963.6pt x 722.7pt>
+File: Pictures/guest night.jpg Graphic file (type jpg)
 
-<use Pictures/narnia.jpg>
-Package pdftex.def Info: Pictures/narnia.jpg used on input line 134.
+<use Pictures/guest night.jpg>
+Package pdftex.def Info: Pictures/guest night.jpg used on input line 132.
 (pdftex.def)             Requested size: 124.62439pt x 93.45805pt.
-) (Chapters/C6_Accommodation.tex [18 <./Pictures/play.jpg> <./Pictures/cheese2.
-jpg> <./Pictures/pub.jpg> <./Pictures/narnia.jpg>]
+) (Chapters/C6_Accommodation.tex [15] [16 <./Pictures/play.jpg> <./Pictures/che
+ese2.jpg> <./Pictures/pub.jpg> <./Pictures/guest night.jpg>]
 Chapter 6.
 File: Pictures/chapter_head_2.jpg Graphic file (type jpg)
 <use Pictures/chapter_head_2.jpg>
 Package pdftex.def Info: Pictures/chapter_head_2.jpg used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 298.74715pt.
- (Main.ptc) [19
+ (Main.ptc) [17
 
 ]
-<Pictures/weston.jpg, id=533, 199.74625pt x 150.5625pt>
+<Pictures/weston.jpg, id=519, 199.74625pt x 150.5625pt>
 File: Pictures/weston.jpg Graphic file (type jpg)
 
 <use Pictures/weston.jpg>
 Package pdftex.def Info: Pictures/weston.jpg used on input line 32.
 (pdftex.def)             Requested size: 116.3144pt x 87.6755pt.
- <Pictures/warham.jpg, id=534, 200.75pt x 150.5625pt>
+ <Pictures/warham.jpg, id=520, 200.75pt x 150.5625pt>
 File: Pictures/warham.jpg Graphic file (type jpg)
 
 <use Pictures/warham.jpg>
 Package pdftex.def Info: Pictures/warham.jpg used on input line 36.
 (pdftex.def)             Requested size: 116.3144pt x 87.2367pt.
 
-<Pictures/castlemill.jpg, id=535, 765.86125pt x 459.7175pt>
+<Pictures/castlemill.jpg, id=521, 765.86125pt x 459.7175pt>
 File: Pictures/castlemill.jpg Graphic file (type jpg)
 
 <use Pictures/castlemill.jpg>
 Package pdftex.def Info: Pictures/castlemill.jpg used on input line 40.
 (pdftex.def)             Requested size: 145.39618pt x 87.27007pt.
 
-<Pictures/kitchen.jpg, id=536, 240.9pt x 160.6803pt>
+<Pictures/kitchen.jpg, id=522, 240.9pt x 160.6803pt>
 File: Pictures/kitchen.jpg Graphic file (type jpg)
 
 <use Pictures/kitchen.jpg>
 Package pdftex.def Info: Pictures/kitchen.jpg used on input line 50.
 (pdftex.def)             Requested size: 207.70522pt x 138.54277pt.
 
-<Pictures/weston2.jpg, id=537, 1310.496pt x 982.872pt>
+<Pictures/weston2.jpg, id=523, 1310.496pt x 982.872pt>
 File: Pictures/weston2.jpg Graphic file (type jpg)
 
 <use Pictures/weston2.jpg>
 Package pdftex.def Info: Pictures/weston2.jpg used on input line 54.
 (pdftex.def)             Requested size: 191.09158pt x 143.31514pt.
-) (Chapters/C7_Money.tex [20 <./Pictures/weston.jpg> <./Pictures/warham.jpg> <.
+) (Chapters/C7_Money.tex [18 <./Pictures/weston.jpg> <./Pictures/warham.jpg> <.
 /Pictures/castlemill.jpg> <./Pictures/kitchen.jpg> <./Pictures/weston2.jpg>]
 Chapter 7.
 File: Pictures/chapter_head_3i.jpg Graphic file (type jpg)
@@ -2100,19 +2119,19 @@ Package pdftex.def Info: Pictures/chapter_head_3i.jpg used on input line 3.
  (Main.ptc)
 Underfull \vbox (badness 4254) has occurred while \output is active []
 
- [21
+ [19
 
 ])
-(Chapters/C8_Essential.tex [22]
+(Chapters/C8_Essential.tex [20]
 Chapter 8.
 File: Pictures/chapter_head_4.jpg Graphic file (type jpg)
 <use Pictures/chapter_head_4.jpg>
 Package pdftex.def Info: Pictures/chapter_head_4.jpg used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 298.78273pt.
  (Main.ptc)) (Chapters/C9_LocalInfo.tex
-[23
+[21
 
-] [24
+] [22
 
 ]
 Chapter 9.
@@ -2120,15 +2139,18 @@ File: Pictures/chapter_head_1.jpg Graphic file (type jpg)
 <use Pictures/chapter_head_1.jpg>
 Package pdftex.def Info: Pictures/chapter_head_1.jpg used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 298.90405pt.
- (Main.ptc) [25]
-<Pictures/subfusc2.jpg, id=582, 240.9pt x 179.2296pt>
+ (Main.ptc)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 24.
+ [23]
+<Pictures/subfusc2.jpg, id=568, 240.9pt x 179.2296pt>
 File: Pictures/subfusc2.jpg Graphic file (type jpg)
 
 <use Pictures/subfusc2.jpg>
 Package pdftex.def Info: Pictures/subfusc2.jpg used on input line 43.
 (pdftex.def)             Requested size: 216.84344pt x 161.3352pt.
 
-<Pictures/subfusc.jpg, id=583, 256.157pt x 401.5pt>
+<Pictures/subfusc.jpg, id=569, 256.157pt x 401.5pt>
 File: Pictures/subfusc.jpg Graphic file (type jpg)
  <use Pictures/subfusc.jpg>
 Package pdftex.def Info: Pictures/subfusc.jpg used on input line 50.
@@ -2150,36 +2172,33 @@ Overfull \hbox (13.84117pt too wide) in paragraph at lines 114--126
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[26 <./Pictures/subfusc2.jpg> <./Pictures/subfusc.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27])
-(Chapters/C10_International.tex [28]
+[24 <./Pictures/subfusc2.jpg> <./Pictures/subfusc.jpg>] [25])
+(Chapters/C10_International.tex [26]
 Chapter 10.
 File: Pictures/chapter_head_2.jpg Graphic file (type jpg)
 <use Pictures/chapter_head_2.jpg>
 Package pdftex.def Info: Pictures/chapter_head_2.jpg used on input line 3.
 (pdftex.def)             Requested size: 597.50787pt x 298.74715pt.
- (Main.ptc) [29
+ (Main.ptc) [27
 
-] [30]) [31]
+] [28]) [29]
 \tf@ptc=\write7
 \openout7 = `Main.ptc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
  (Main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 652F3ED3F686BBA0CF392F9C7A657C6A;3177.
+(rerunfilecheck)             Checksum: 63596EB7BFB13022783C3524067C8C1B;3182.
  ) 
 Here is how much of TeX's memory you used:
- 32237 strings out of 493335
- 602606 string characters out of 3136684
- 673518 words of memory out of 3000000
- 34692 multiletter control sequences out of 15000+200000
- 145891 words of font info for 284 fonts, out of 3000000 for 9000
+ 32279 strings out of 493335
+ 604124 string characters out of 3136684
+ 673013 words of memory out of 3000000
+ 34756 multiletter control sequences out of 15000+200000
+ 146904 words of font info for 290 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,12n,92p,10475b,1222s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}
@@ -2194,9 +2213,9 @@ rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT
 I.pfb>
-Output written on Main.pdf (39 pages, 7215428 bytes).
+Output written on Main.pdf (37 pages, 6736222 bytes).
 PDF statistics:
- 708 PDF objects out of 1000 (max. 8388607)
- 138 named destinations out of 1000 (max. 500000)
- 44617 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 694 PDF objects out of 1000 (max. 8388607)
+ 133 named destinations out of 1000 (max. 500000)
+ 44622 words of extra memory for PDF output out of 51595 (max. 10000000)
 
